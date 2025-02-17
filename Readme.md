@@ -1,4 +1,4 @@
-# cpuminer Docker Project
+# cpuminer docker
 
 This repository provides a Docker setup for building and running the [cpuminer-opt](https://github.com/JayDDee/cpuminer-opt) project. The Docker image automates the setup and compilation of cpuminer and runs it with your specified arguments. It supports both ARM and amd64 architectures.
 
